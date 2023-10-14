@@ -2,9 +2,9 @@
 
 This is a web application built using HTML, CSS, Javascript to visualize classic sorting algorithms such as bubble, insertion, selection, merge, quick 
 
-**Live-** [https://visualizethesorting.netlify.app/-) 
+**Live-** [https://visualizethesorting.netlify.app/) 
 
-**Code-** [https://github.com/Bhaker-8055/SortingVisualizer-)
+**Code-** [https://github.com/Bhaker-8055/SortingVisualizer)
 
 ## Purpose
 

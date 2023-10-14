@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Bhaker-8055/SortingVisualizer.git/static/css/main.f73a2ca6.css",
+    "main.js": "/Bhaker-8055/SortingVisualizer.git/static/js/main.5deef743.js",
+    "index.html": "/Bhaker-8055/SortingVisualizer.git/index.html",
+    "main.f73a2ca6.css.map": "/Bhaker-8055/SortingVisualizer.git/static/css/main.f73a2ca6.css.map",
+    "main.5deef743.js.map": "/Bhaker-8055/SortingVisualizer.git/static/js/main.5deef743.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f73a2ca6.css",
+    "static/js/main.5deef743.js"
+  ]
+}
